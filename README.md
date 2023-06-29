@@ -1,1 +1,1 @@
-# kanban-boaard
+# kanban-board
