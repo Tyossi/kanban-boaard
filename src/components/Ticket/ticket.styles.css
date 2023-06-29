@@ -1,0 +1,64 @@
+.ticket__container {
+  border-top: 1px solid #e7eaf0;
+  width: 100%;
+  min-height: 10rem;
+  max-height: fit-content;
+  background-color: #fff;
+  margin: 1rem 0;
+  border-radius: 0.4rem;
+  padding: 1rem;
+  word-wrap: break-word;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  cursor: grab;
+  box-shadow: 0px 3px 3px -1px rgb(10 22 70 / 10%),
+    0px 0px 1px 0px rgb(10 22 70 / 6%);
+}
+
+.ticket__text {
+  font-size: 1.6rem;
+  font-weight: 500;
+  text-align: left;
+}
+
+.edit-and-delete {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.edit-and-delete > svg {
+  height: 1.5rem;
+  width: 1.5rem;
+}
+
+.edit__input {
+  border: none;
+  padding: 1rem;
+  background-color: #eef2f8;
+}
+
+.ticket__CTA {
+  background-color: #eef2f8;
+  border-radius: 50%;
+  padding: 0.5rem;
+  display: flex;
+  align-items: center;
+  width: fit-content;
+  cursor: pointer;
+}
+
+.ticket__CTA > svg {
+  height: 1.5rem;
+  width: 1.5rem;
+  cursor: pointer;
+  fill: #697386;
+}
+
+.ticket__CTA:not(:last-child) {
+  margin-right: 1rem;
+}
+
+.edit-and-delete > svg:not(:last-child) {
+  margin-right: 1.5rem;
+}

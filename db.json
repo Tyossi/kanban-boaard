@@ -1,0 +1,61 @@
+{
+  "todoTickets": [
+    {
+      "key": 1645630070804,
+      "ticketTitle": "Bootstrap a new React Project"
+    },
+    {
+      "key": 1645630096909,
+      "ticketTitle": "Check with the UI/UX team for design specifications"
+    },
+    {
+      "ticketTitle": "Set up a meeting with the new client",
+      "key": 1645630143915,
+      "ticketDescription": "The meeting is majorly to discuss terms of contract as well as mode of operation."
+    },
+    {
+      "key": 1645630223682,
+      "ticketTitle": "Make time to have a code review session with the team",
+      "ticketDescription": "The task was assigned to Toyosi by the tech lead."
+    },
+    {
+      "key": 1645630391804,
+      "ticketTitle": "Email the new client to set up a meet with their team",
+      "ticketDescription": "The meeting is basically to discuss handshake process between their system and ours."
+    }
+  ],
+  "onGoingTickets": [
+    {
+      "ticketTitle": "Get started on the landing page",
+      "key": 1645631264043
+    },
+    {
+      "key": 1645632617842,
+      "ticketTitle": "Review the terms and conditions of the latest contract with the legal team"
+    }
+  ],
+  "qATickets": [
+    {
+      "key": 1645631293592,
+      "ticketTitle": "Fix bugs on the user dashboard"
+    },
+    {
+      "key": 1645631310160,
+      "ticketTitle": "Update the UI with the new color theme"
+    }
+  ],
+  "doneTickets": [
+    {
+      "key": 1645631377268,
+      "ticketTitle": "Set up a meeting with the new client"
+    },
+    {
+      "key": 1645631396731,
+      "ticketTitle": "onboard the junior dev"
+    },
+    {
+      "key": 1645631446762,
+      "ticketTitle": "Provide update on the progress of the mobile app development"
+    }
+  ]
+}
